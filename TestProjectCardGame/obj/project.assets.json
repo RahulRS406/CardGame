@@ -4975,11 +4975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Card Game\\TestProjectCardGame\\TestProjectCardGame.csproj",
+      "projectUniqueName": "D:\\Personal\\GitHub Projects\\CardGame\\TestProjectCardGame\\TestProjectCardGame.csproj",
       "projectName": "TestProjectCardGame",
-      "projectPath": "D:\\Personal\\Card Game\\TestProjectCardGame\\TestProjectCardGame.csproj",
+      "projectPath": "D:\\Personal\\GitHub Projects\\CardGame\\TestProjectCardGame\\TestProjectCardGame.csproj",
       "packagesPath": "C:\\Users\\Z003RX2P\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Card Game\\TestProjectCardGame\\obj\\",
+      "outputPath": "D:\\Personal\\GitHub Projects\\CardGame\\TestProjectCardGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5001,8 +5001,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Personal\\Card Game\\CardGame\\CardGame.csproj": {
-              "projectPath": "D:\\Personal\\Card Game\\CardGame\\CardGame.csproj"
+            "D:\\Personal\\GitHub Projects\\CardGame\\CardGame\\CardGame.csproj": {
+              "projectPath": "D:\\Personal\\GitHub Projects\\CardGame\\CardGame\\CardGame.csproj"
             }
           }
         }
