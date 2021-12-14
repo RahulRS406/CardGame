@@ -1,0 +1,16 @@
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.exe
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.deps.json
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.json
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.runtimeconfig.dev.json
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.dll
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\ref\CardGame.dll
+D:\Personal\Card Game\CardGame\bin\Debug\net5.0\CardGame.pdb
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfoInputs.cache
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.AssemblyInfo.cs
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.csproj.CoreCompileInputs.cache
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.dll
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\ref\CardGame.dll
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.pdb
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.genruntimeconfig.cache
+D:\Personal\Card Game\CardGame\obj\Debug\net5.0\CardGame.csproj.AssemblyReference.cache
